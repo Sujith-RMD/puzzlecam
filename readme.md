@@ -16,7 +16,7 @@ Built with vanilla JavaScript, MediaPipe hand tracking, and the Web Audio API. N
 
 **1. clone the repo**
 ```bash
-git clone https://github.com/nandinisingh156/puzzlecam.git
+git clone https://github.com/Sujith-RMD/puzzlecam.git
 cd puzzlecam
 ```
 
